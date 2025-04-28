@@ -1,0 +1,14 @@
+C:\Users\Leticia55006026\Documents\switch\conceito\bin\Debug\net7.0\conceito.exe
+C:\Users\Leticia55006026\Documents\switch\conceito\bin\Debug\net7.0\conceito.deps.json
+C:\Users\Leticia55006026\Documents\switch\conceito\bin\Debug\net7.0\conceito.runtimeconfig.json
+C:\Users\Leticia55006026\Documents\switch\conceito\bin\Debug\net7.0\conceito.dll
+C:\Users\Leticia55006026\Documents\switch\conceito\bin\Debug\net7.0\conceito.pdb
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\conceito.AssemblyInfoInputs.cache
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\conceito.AssemblyInfo.cs
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\conceito.csproj.CoreCompileInputs.cache
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\conceito.dll
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\refint\conceito.dll
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\conceito.pdb
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\conceito.genruntimeconfig.cache
+C:\Users\Leticia55006026\Documents\switch\conceito\obj\Debug\net7.0\ref\conceito.dll
