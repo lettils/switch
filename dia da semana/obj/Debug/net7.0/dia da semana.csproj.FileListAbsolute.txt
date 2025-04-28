@@ -1,0 +1,14 @@
+C:\Users\Leticia55006026\Documents\switch\dia da semana\bin\Debug\net7.0\dia da semana.exe
+C:\Users\Leticia55006026\Documents\switch\dia da semana\bin\Debug\net7.0\dia da semana.deps.json
+C:\Users\Leticia55006026\Documents\switch\dia da semana\bin\Debug\net7.0\dia da semana.runtimeconfig.json
+C:\Users\Leticia55006026\Documents\switch\dia da semana\bin\Debug\net7.0\dia da semana.dll
+C:\Users\Leticia55006026\Documents\switch\dia da semana\bin\Debug\net7.0\dia da semana.pdb
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\dia da semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\dia da semana.AssemblyInfoInputs.cache
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\dia da semana.AssemblyInfo.cs
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\dia da semana.csproj.CoreCompileInputs.cache
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\dia da semana.dll
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\refint\dia da semana.dll
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\dia da semana.pdb
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\dia da semana.genruntimeconfig.cache
+C:\Users\Leticia55006026\Documents\switch\dia da semana\obj\Debug\net7.0\ref\dia da semana.dll
